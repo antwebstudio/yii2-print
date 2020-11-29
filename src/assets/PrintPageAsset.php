@@ -1,6 +1,6 @@
 <?php
 
-namespace ant\print\assets;
+namespace ant\printing\assets;
 
 use yii\web\AssetBundle;
 
