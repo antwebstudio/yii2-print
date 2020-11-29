@@ -6,5 +6,10 @@
             "email": "chy1988@antwebstudio.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+			"ant\\printing\\": "src"
+		}
+    },
     "require": {}
 }
